@@ -20,3 +20,10 @@ https://github.com/Drq13112/Monza-Simulator/assets/80169535/eea5eeef-d7bb-497f-b
 
 https://github.com/Drq13112/Monza-Simulator/assets/80169535/21d08a75-8369-4291-b3e8-a3a023da753d
 
+<!-- CONTACT -->
+## Contact
+David Redondo Quintero - [Drq13112](https://github.com/Drq13112) - davidredquin@gmail.com\
+Pablo Vela Silva - pablo.vela.silva@alumnos.upm.es
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
