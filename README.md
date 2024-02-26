@@ -16,9 +16,7 @@ https://github.com/Drq13112/Monza-Simulator/assets/80169535/fcaf97d1-cab0-4f9d-9
 
 https://github.com/Drq13112/Monza-Simulator/assets/80169535/c0a3f0a7-d583-430c-9472-429040378c25
 
+https://github.com/Drq13112/Monza-Simulator/assets/80169535/eea5eeef-d7bb-497f-b1f6-009d67e0930a
 
-https://github.com/Drq13112/Monza-Simulator/assets/80169535/66780269-61ff-471d-a686-e6967abc7566
-
-
-https://github.com/Drq13112/Monza-Simulator/assets/80169535/2dff8b21-4bb7-4828-b606-6c049034e415
+https://github.com/Drq13112/Monza-Simulator/assets/80169535/21d08a75-8369-4291-b3e8-a3a023da753d
 
