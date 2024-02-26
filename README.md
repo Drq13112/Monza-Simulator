@@ -14,7 +14,9 @@ For the resolution of the problem, a plant is provided in Matlab and Simulink wi
 
 https://github.com/Drq13112/Monza-Simulator/assets/80169535/fcaf97d1-cab0-4f9d-9b0d-cb8cc535af54
 
-https://github.com/Drq13112/Monza-Simulator/assets/80169535/c0a3f0a7-d583-430c-9472-429040378c25
+
+https://github.com/Drq13112/Monza-Simulator/assets/80169535/24ddd419-f1d0-4621-9b53-1355d0d68d32
+
 
 https://github.com/Drq13112/Monza-Simulator/assets/80169535/eea5eeef-d7bb-497f-b1f6-009d67e0930a
 
